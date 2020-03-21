@@ -15,6 +15,7 @@ keywords = [
     "nordic",
 ]
 repository = "https://github.com/nrf-rs/nrf9160-pac"
+readme = "README.md"
 
 [dependencies]
 bare-metal = "0.2.0"
